@@ -1,3 +1,9 @@
+# Made using  Holger Schmitz tutorial
+https://developer.okta.com/blog/2020/08/19/css-grid-react
+
+# Find the code at
+https://github.com/oktadev/okta-react-css-grid-example
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
